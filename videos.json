@@ -1,0 +1,18 @@
+{
+  "videos":[
+    {
+      "titulo":"La Casa Embrujada",
+      "descripcion":"Una familia decidió mudarse a una casa antigua sin imaginar que algo ya vivía allí.",
+      "imagen":"https://picsum.photos/800/500",
+      "spotify":"https://spotify.com/",
+      "youtube":"https://youtube.com/"
+    },
+    {
+      "titulo":"El Bosque Maldito",
+      "descripcion":"Historias de personas desaparecidas en un bosque donde nadie debería entrar.",
+      "imagen":"https://picsum.photos/801/500",
+      "spotify":"https://spotify.com/",
+      "youtube":"https://youtube.com/"
+    }
+  ]
+}
