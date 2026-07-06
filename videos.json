@@ -1,18 +1,40 @@
 {
   "videos":[
     {
-      "titulo":"La Casa Embrujada",
-      "descripcion":"Una familia decidió mudarse a una casa antigua sin imaginar que algo ya vivía allí.",
-      "imagen":"https://picsum.photos/800/500",
-      "spotify":"https://spotify.com/",
-      "youtube":"https://youtube.com/"
+      "numero":25,
+      "titulo":"La Casa Embrujada de la Colina Negra",
+      "descripcion":"Una familia se muda a una antigua casa donde comienzan a escuchar voces y pasos durante la madrugada.",
+      "categoria":"👻 Historias Paranormales",
+      "fecha":"05 JUL 2026",
+      "duracion":"28:43",
+      "imagen":"https://picsum.photos/800/450?random=1",
+      "spotify":"https://spotify.com",
+      "youtube":"https://youtube.com",
+      "url":"episodio25.html"
     },
     {
-      "titulo":"El Bosque Maldito",
-      "descripcion":"Historias de personas desaparecidas en un bosque donde nadie debería entrar.",
-      "imagen":"https://picsum.photos/801/500",
-      "spotify":"https://spotify.com/",
-      "youtube":"https://youtube.com/"
+      "numero":24,
+      "titulo":"El Pasajero Fantasma del Kilómetro 13",
+      "descripcion":"Conductores aseguran recoger a un extraño pasajero que desaparece antes de llegar al destino.",
+      "categoria":"🚗 Leyendas Urbanas",
+      "fecha":"28 JUN 2026",
+      "duracion":"35:18",
+      "imagen":"https://picsum.photos/800/450?random=2",
+      "spotify":"https://spotify.com",
+      "youtube":"https://youtube.com",
+      "url":"episodio24.html"
+    },
+    {
+      "numero":23,
+      "titulo":"Las Luces Misteriosas del Bosque Perdido",
+      "descripcion":"Exploradores documentan extrañas luces flotantes y sonidos inexplicables durante una expedición nocturna.",
+      "categoria":"👽 Misterios",
+      "fecha":"21 JUN 2026",
+      "duracion":"41:56",
+      "imagen":"https://picsum.photos/800/450?random=3",
+      "spotify":"https://spotify.com",
+      "youtube":"https://youtube.com",
+      "url":"episodio23.html"
     }
   ]
 }
